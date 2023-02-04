@@ -1,0 +1,19 @@
+{
+  "name": "johnbot",
+  "version": "1.0.0",
+  "description": "johnbot does things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnsonLau/Johnbot.git"
+  },
+  "author": "JohnsonLau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnsonLau/Johnbot/issues"
+  },
+  "homepage": "https://github.com/JohnsonLau/Johnbot#readme"
+}
